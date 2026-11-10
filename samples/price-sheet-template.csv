@@ -1,0 +1,4 @@
+sku,name,wholesale_price,case_pack,moq,available,stock_units
+ABC-100,"Example item, small",4.50,12,12,yes,240
+ABC-200,"Example item, large",9.00,6,12,yes,
+ABC-300,Example seasonal item,3.25,24,0,no,0

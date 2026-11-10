@@ -1,0 +1,13 @@
+sku,name,wholesale_price,case_pack,moq,available,stock_units
+CB-101,Beeswax candle 8oz amber,6.50,12,12,yes,240
+CB-102,Beeswax candle 8oz clear,6.50,12,12,yes,36
+CB-201,Soy tin candle 4oz lavender,3.25,24,24,yes,480
+CB-202,Soy tin candle 4oz cedar,3.25,24,24,yes,120
+SP-301,Goat milk soap bar oatmeal,2.80,20,20,yes,400
+SP-302,Goat milk soap bar unscented,2.80,20,20,yes,60
+LB-401,Lip balm tube honey,1.15,50,50,yes,1000
+LB-402,Lip balm tube mint,1.15,50,50,yes,150
+DF-501,Reed diffuser 100ml citrus,9.75,6,6,yes,48
+DF-502,Reed diffuser 100ml fig,9.75,6,6,no,0
+GS-601,Gift set candle + soap,14.00,4,4,yes,40
+WM-701,Wax melts 6-cube vanilla,2.10,30,90,yes,300

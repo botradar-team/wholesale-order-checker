@@ -1,0 +1,4 @@
+# Nothing is required. The app uses only the Python standard library (Python 3.9+).
+# Optional:
+openpyxl>=3.1   # only if your price sheet is an Excel .xlsx file (CSV needs nothing)
+pytest>=7.0     # only if you want to run the tests
